@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for Page Array &#8211; marvelsgroup	</title>
+	<atom:link href="http://Goshila.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://Goshila.github.io</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>
+	Fri, 14 Feb 2014 05:45:04 +0000	</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.6</generator>
+			<item>
+				<title>
+				Comment on Latin words Ipsum by Vadivu				</title>
+				<link>http://Goshila.github.io/latin-words-ipsum/#comment-4</link>
+		<dc:creator><![CDATA[Vadivu]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2014 05:45:04 +0000</pubDate>
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/dt-super/?p=482#comment-4</guid>
+					<description><![CDATA[Nunc eleifend iaculis nibh. Donec pellentesque consequat fermentum. Nam pulvinar nisl ipsum, a rhoncus est vulputate quis.]]></description>
+		<content:encoded><![CDATA[<p>Nunc eleifend iaculis nibh. Donec pellentesque consequat fermentum. Nam pulvinar nisl ipsum, a rhoncus est vulputate quis.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Comment on Latin words Ipsum by ram				</title>
+				<link>http://Goshila.github.io/latin-words-ipsum/#comment-3</link>
+		<dc:creator><![CDATA[ram]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2014 05:44:19 +0000</pubDate>
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/dt-super/?p=482#comment-3</guid>
+					<description><![CDATA[Etiam tellus sem, vulputate non nunc nec, tincidunt adipiscing justo. Praesent imperdiet nisi et ornare rhoncus.]]></description>
+		<content:encoded><![CDATA[<p>Etiam tellus sem, vulputate non nunc nec, tincidunt adipiscing justo. Praesent imperdiet nisi et ornare rhoncus.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				Comment on Latin words Ipsum by ram				</title>
+				<link>http://Goshila.github.io/latin-words-ipsum/#comment-2</link>
+		<dc:creator><![CDATA[ram]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2014 05:44:00 +0000</pubDate>
+		<guid isPermaLink="false">http://wedesignthemes.com/themes/dt-super/?p=482#comment-2</guid>
+					<description><![CDATA[Lorem ipsum dolor sit amet]]></description>
+		<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>
